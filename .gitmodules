@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gfoRmula"]
 	path = gfoRmula
 	url = https://github.com/causalinference/gformula
-	shallow = true
-	registered = true
