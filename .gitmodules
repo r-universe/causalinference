@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "SEQTaRget"]
 	path = SEQTaRget
-	url = https://github.com/causalinference/sequential
+	url = https://github.com/causalinference/seqtarget
 	subdir = SEQTaRget
 [submodule "gfoRmula"]
 	path = gfoRmula
